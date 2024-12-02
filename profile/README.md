@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the Calkit GitHub organization homepage.
+Welcome to the Calkit GitHub organization homepage!
 
 <!--
 
