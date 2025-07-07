@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Welcome to the Calkit GitHub organization homepage!
-
 Calkit's mission is to help make every scientific study reproducible,
 which means anyone can download a project and go from raw data to
 research article with a single command.
