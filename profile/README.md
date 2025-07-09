@@ -17,10 +17,10 @@
   </a>
 </p>
 
-Calkit's mission is to help make every scientific study reproducible,
-i.e., anyone should be able to download a project and go from raw data to
+Calkit's mission is to make every scientific study reproducible.
+That is, anyone should be able to download a project and go from raw data to
 research article with a single command.
-We seek to do this without forcing scientists to become software
+We seek to do this without forcing researchers to become software
 engineering experts by providing simplified and unified
 interfaces on top of powerful software development tools like Git,
 DVC, uv, Docker, and even GitHub.
